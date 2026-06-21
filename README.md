@@ -178,6 +178,9 @@ Minor updates.
 > Versions `v1.2.4` and `v1.2.5` briefly used the incorrect name "XML Xchema Explorer" due to a typo.  
 > The extension functionality was unchanged. Newer versions restore the correct naming: "XSD Schema".
 
+### v1.2.8
+- **Enhanced `xs:any` tooltips** – Display namespace and processContents details.
+
 ---
 
 ## 🗺️ Roadmap / Upcoming Features
@@ -186,7 +189,6 @@ The following features are planned for future releases:
 
 - **Graphical diagram** – Visual schema overview using Mermaid.
 - **Sample XML generation** – Right‑click any complex type to generate a sample XML instance.
-- **Enhanced `xs:any` tooltips** – Display namespace and processContents details.
 
 ---
 
